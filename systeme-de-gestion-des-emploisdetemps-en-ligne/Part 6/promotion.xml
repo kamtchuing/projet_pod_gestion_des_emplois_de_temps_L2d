@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <promotion>
     <etudiants>
-        <etudiant numInscription="1" nom="ZEGAI" prenom="Houari"/>
-        <etudiant numInscription="2" nom="ZEGAI" prenom="Mohamed"/>
+        <etudiant numInscription="1" nom="KIM" prenom="INES"/>
+        <etudiant numInscription="2" nom="FOUDA" prenom="JORES"/>
     </etudiants>
     <modules>
         <module idModule="E1" nomModule="XML Avancé" />
